@@ -1,5 +1,7 @@
 # Frontend Mentor - Results summary component
 
+## By Newton Ombese (Bofulo)
+
 ![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
@@ -61,6 +63,9 @@ As mentioned above, there are many ways to host your project for free. Our recom
 - [Netlify](https://www.netlify.com/)
 
 You can host your site using one of these solutions or any of our other trusted providers. [Read more about our recommended and trusted hosts](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe).
+
+## Deployed Live Link
+- [Results Summary Component](https://results-summary-component-sand.vercel.app/)
 
 ## Create a custom `README.md`
 
